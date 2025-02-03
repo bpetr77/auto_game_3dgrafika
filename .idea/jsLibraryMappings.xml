@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="3.hazi/build/js/node_modules" />
+    <excludedPredefinedLibrary name="3.hazi/build/js/packages/kog-client-test/node_modules" />
+    <excludedPredefinedLibrary name="3.hazi/build/js/packages/kog-client/node_modules" />
+  </component>
+</project>
